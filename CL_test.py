@@ -1,8 +1,8 @@
 """
 Author: Dr. Jin Zhang
-E-mail: j.zhang.vision@gmail.com
-Codes for "Flotation process monitoring via momentum memory network based on froth videos"
-Created on 2022.02.10
+E-mail: j.zhang@kust.edu.cn
+Codes for "Lifelong Learning Memory Network for Flotation Process Monitoring"
+Created on 2025.02.10
 """
 
 import torch
